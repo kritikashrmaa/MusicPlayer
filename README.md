@@ -4,7 +4,7 @@
 2. Tkinter: to develop GUI.
 3. os: to access the song folder
 # Functions Used
-playsong: It loads the active song from the list and plays the required song. It gets executed when the user clicks on “play”.
-pausesong: It pauses the required song. It gets executed when the user clicks on “pause”.
-stopsong: It stops the required song. It gets executed when the user clicks on “stop”.
-resumesong: It resumes the required song. It gets executed when the user clicks on “resume”.
+1. playsong: It loads the active song from the list and plays the required song. It gets executed when the user clicks on “play”.
+2. pausesong: It pauses the required song. It gets executed when the user clicks on “pause”.
+3. stopsong: It stops the required song. It gets executed when the user clicks on “stop”.
+4. resumesong: It resumes the required song. It gets executed when the user clicks on “resume”.
